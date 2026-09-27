@@ -73,11 +73,15 @@ hardware mixer.
 
 Do not add the game's `+S` or `+A` switches; JP2GUS owns the audio path.
 
-## Release status
+## Tested hardware
 
-Version 1.0 was reported working during gameplay on a physical 386 and GUS MAX.
+Version 1.0 has been successfully tested during gameplay on:
+
+- A physical 386 with a GUS MAX.
+- A physical 486/133 with a Gravis UltraSound PnP.
+
 It adds the command-line controls above and changes `/I` to a non-blocking
-diagnostic launch. The hardware report covered the complete build but did not
+diagnostic launch. The hardware reports covered the complete build but did not
 itemize every possible command-line combination.
 
 ## Verification
