@@ -95,6 +95,16 @@ make emutest GAME_DIR=/path/to/game DOSBOX=/path/to/dosbox
 See [docs/TESTING.md](docs/TESTING.md) for the captured test results and the
 optional DOSBox shared-library argument.
 
+## Other GUS Patches
+
+[Gravis Ultrasound Game Patches](https://github.com/koodoonas/gus-game-patches-and-fixes)
+
+## AI usage disclosure
+
+These patches have been heavily assisted by AI and, in some cases, developed almost entirely with its help.
+
+I remain ambivalent about AI and its human and environmental costs. But since it’s already here, I might as well use it for something fun until it consumes us all.
+
 ## Copyright boundary
 
 This repository and its release archives contain original patch code and
